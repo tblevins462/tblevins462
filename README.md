@@ -20,12 +20,11 @@ Cybersecurity and cloud engineering reward curiosity, discipline, and the abilit
 When I’m not studying or building projects, I stay active. I enjoy training for triathlons, hiking, and spending time outdoors with my dog. Fitness keeps me focused, grounded, and disciplined — qualities that carry directly into my work and learning.
 
 ## Featured Projects
-A few of the projects I’m most proud of:
-- Incident Triage Investigation – End-to-end SOC-style investigation with log analysis, OSINT, and MITRE mapping  
-- Detection Engineering (Sysmon + Wazuh) – Telemetry tuning, noise reduction, and alert fidelity improvements  
-- Penetration Testing Lab – Reconnaissance, enumeration, exploitation, and reporting workflow  
 
-These projects are pinned below.
+- **AWS Secure VPC Lab** — Hands‑on cloud networking project covering VPC design, subnets, routing, IAM, and secure architecture  
+- **Incident Triage Investigation** — End‑to‑end SOC‑style investigation with log analysis, OSINT, and MITRE ATT&CK mapping  
+- **Detection Engineering (Sysmon + Wazuh)** — Telemetry tuning, noise reduction, and alert fidelity improvements  
+- **Penetration Testing Lab** — Reconnaissance, enumeration, exploitation, and reporting workflow  
 
 ## Portfolio
 All of my project documentation, reports, and labs are organized here:  
